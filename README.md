@@ -1,15 +1,8 @@
-# Tooling IG
+# Página de inicio - español (Spanish Language Pack)
 
-This documents the profiles, extensions, value sets, and code systems 
-defined by the HL7 tooling. Principally, this is the Java validator and 
-the IG publisher, though these resources are used by other tools as well.
+Mantenido por afiliados de HL7 de habla hispana.
+Para contribuir a este trabajo, vaya a
+[Paquete de traducción al español](https://chat.fhir.org/#narrow/stream/405678-Spanish-Translation-Pack)
 
-There is no expectation that these resources are applicable to real 
-world healthcare systems.
+See the translation pack at [https://build.fhir.org/ig/FHIR/hl7.fhir.r4.es]
 
-https://build.fhir.org/ig/FHIR/fhir-tools-ig
-
-This IG is used when building all IGs, and is always in scope for internal 
-tooling reasons.
-
- 
