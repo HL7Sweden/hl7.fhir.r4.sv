@@ -1,0 +1,18 @@
+# en -> sv
+
+#: EntityNamePartQualifierR2
+msgid "EntityNamePartQualifierR2"
+msgstr "NamndelskvalificerareR2"
+
+#: EntityNamePartQualifierR2/title
+msgid "EntityNamePartQualifierR2"
+msgstr "NamndelskvalificerareR2"
+
+#: EntityNamePartQualifierR2/description
+msgid "**Description:**The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records."
+msgstr ""
+
+#: CL
+#. **Description:**Used to indicate which of the various name parts is used when interacting with the person.
+msgid "callme"
+msgstr "tilltalsnamn"

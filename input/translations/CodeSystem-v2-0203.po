@@ -1,0 +1,23 @@
+# en -> sv
+
+#: v2-0203
+msgid "v2-0203"
+msgstr ""
+
+#: v2-0203/title
+msgid "IdentifierType"
+msgstr "Identifierartyp"
+
+#: v2-0203/description
+msgid "HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON."
+msgstr ""
+
+#: XX
+#. **Description:**Used to indicate which of the various name parts is used when interacting with the person.
+msgid "Organization identifier"
+msgstr "Identifierare för organisation"
+
+#: PRN
+#. **Description:**Used to indicate which of the various name parts is used when interacting with the person.
+msgid "Provider number"
+msgstr "Identifierare för vårdgivare eller utförare av socialtjänst"
