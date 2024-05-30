@@ -1,0 +1,41 @@
+{
+  "id" : "CodeSystem-v3-MaritalStatus",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "sv",
+      "entries" : [    
+        {
+          "id" : "v3-MaritalStatus",
+          "source" : "MaritalStatus",
+          "target" : "Civilstånd"
+        },
+        {
+          "id" : "v3-MaritalStatus/title",
+          "source" : "MaritalStatus",
+          "target" : "Civilstånd"
+        },
+        {
+          "id" : "M",
+          "source" : "Married",
+          "target" : "Gift"
+        },
+        {
+          "id" : "D",
+          "source" : "Divorced",
+          "target" : "Skild"
+        },
+        {
+          "id" : "W",
+          "source" : "Widowed",
+          "target" : "Änka och änkling"
+        },
+        {
+          "id" : "U",
+          "source" : "unmarried",
+          "target" : "Ogift"
+        }
+      ]
+    }
+  ]
+} 
