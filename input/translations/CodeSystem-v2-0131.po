@@ -1,0 +1,98 @@
+# en -> sv
+
+#: BP
+msgid "Billing contact person"
+msgstr ""
+
+#: BP@definition
+msgid "Billing contact person"
+msgstr ""
+
+#: CP
+msgid "Contact person"
+msgstr ""
+
+#: CP@definition
+msgid "Contact person"
+msgstr ""
+
+#: EP
+msgid "Emergency contact person"
+msgstr ""
+
+#: EP@definition
+msgid "Emergency contact person"
+msgstr ""
+
+#: PR
+msgid "Person preparing referral"
+msgstr ""
+
+#: PR@definition
+msgid "Person preparing referral"
+msgstr ""
+
+#: E
+msgid "Employer"
+msgstr ""
+
+#: E@definition
+msgid "Employer"
+msgstr ""
+
+#: C
+msgid "Emergency Contact"
+msgstr ""
+
+#: C@definition
+msgid "Emergency Contact"
+msgstr ""
+
+#: F
+msgid "Federal Agency"
+msgstr ""
+
+#: F@definition
+msgid "Federal Agency"
+msgstr ""
+
+#: I
+msgid "Insurance Company"
+msgstr ""
+
+#: I@definition
+msgid "Insurance Company"
+msgstr ""
+
+#: N
+msgid "Next-of-Kin"
+msgstr ""
+
+#: N@definition
+msgid "Next-of-Kin"
+msgstr ""
+
+#: S
+msgid "State Agency"
+msgstr ""
+
+#: S@definition
+msgid "State Agency"
+msgstr ""
+
+#: O
+msgid "Other"
+msgstr ""
+
+#: O@definition
+msgid "Other"
+msgstr ""
+
+#: U
+msgid "Unknown"
+msgstr ""
+
+#: U@definition
+msgid "Unknown"
+msgstr ""
+

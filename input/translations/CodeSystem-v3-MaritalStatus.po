@@ -1,0 +1,87 @@
+# en -> sv
+
+
+#: A
+msgid "Annulled"
+msgstr ""
+
+#: A@definition
+msgid "Marriage contract has been declared null and to not have existed"
+msgstr ""
+
+#: D
+msgid "Divorced"
+msgstr "Skild"
+
+#: D@definition
+msgid "Marriage contract has been declared dissolved and inactive"
+msgstr ""
+
+#: I
+msgid "Interlocutory"
+msgstr ""
+
+#: I@definition
+msgid "Subject to an Interlocutory Decree."
+msgstr ""
+
+#: L
+msgid "Legally Separated"
+msgstr ""
+
+#: M
+msgid "Married"
+msgstr "Gift"
+
+#: M@definition
+msgid "A current marriage contract is active"
+msgstr ""
+
+#: C
+msgid "Common Law"
+msgstr ""
+
+#: C@definition
+msgid "a marriage recognized in some jurisdictions and based on the parties' agreement to consider themselves married and can also be based on documentation of cohabitation. This definition was based on https://www.merriam-webster.com/dictionary/common-law%20marriage."
+msgstr ""
+
+#: P
+msgid "Polygamous"
+msgstr ""
+
+#: P@definition
+msgid "More than 1 current spouse"
+msgstr ""
+
+#: T
+msgid "Domestic partner"
+msgstr ""
+
+#: T@definition
+msgid "Person declares that a domestic partner relationship exists."
+msgstr ""
+
+#: U
+msgid "unmarried"
+msgstr "Ogift"
+
+#: U@definition
+msgid "Currently not in a marriage contract."
+msgstr ""
+
+#: S
+msgid "Never Married"
+msgstr ""
+
+#: S@definition
+msgid "No marriage contract has ever been entered"
+msgstr ""
+
+#: W
+msgid "Widowed"
+msgstr "Änka och änkling"
+
+#: W@definition
+msgid "The spouse has died"
+msgstr ""
+

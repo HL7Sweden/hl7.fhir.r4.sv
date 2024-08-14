@@ -1,0 +1,58 @@
+# en -> sv
+
+#: mon
+msgid "Monday"
+msgstr ""
+
+#: mon@definition
+msgid "Monday."
+msgstr ""
+
+#: tue
+msgid "Tuesday"
+msgstr ""
+
+#: tue@definition
+msgid "Tuesday."
+msgstr ""
+
+#: wed
+msgid "Wednesday"
+msgstr ""
+
+#: wed@definition
+msgid "Wednesday."
+msgstr ""
+
+#: thu
+msgid "Thursday"
+msgstr ""
+
+#: thu@definition
+msgid "Thursday."
+msgstr ""
+
+#: fri
+msgid "Friday"
+msgstr ""
+
+#: fri@definition
+msgid "Friday."
+msgstr ""
+
+#: sat
+msgid "Saturday"
+msgstr ""
+
+#: sat@definition
+msgid "Saturday."
+msgstr ""
+
+#: sun
+msgid "Sunday"
+msgstr ""
+
+#: sun@definition
+msgid "Sunday."
+msgstr ""
+

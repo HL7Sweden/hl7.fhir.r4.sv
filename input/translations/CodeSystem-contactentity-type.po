@@ -1,0 +1,50 @@
+# en -> sv
+
+#: BILL
+msgid "Billing"
+msgstr ""
+
+#: BILL@definition
+msgid "Contact details for information regarding to billing/general finance enquiries."
+msgstr ""
+
+#: ADMIN
+msgid "Administrative"
+msgstr ""
+
+#: ADMIN@definition
+msgid "Contact details for administrative enquiries."
+msgstr ""
+
+#: HR
+msgid "Human Resource"
+msgstr ""
+
+#: HR@definition
+msgid "Contact details for issues related to Human Resources, such as staff matters, OH&S etc."
+msgstr ""
+
+#: PAYOR
+msgid "Payor"
+msgstr ""
+
+#: PAYOR@definition
+msgid "Contact details for dealing with issues related to insurance claims/adjudication/payment."
+msgstr ""
+
+#: PATINF
+msgid "Patient"
+msgstr ""
+
+#: PATINF@definition
+msgid "Generic information contact for patients."
+msgstr ""
+
+#: PRESS
+msgid "Press"
+msgstr ""
+
+#: PRESS@definition
+msgid "Dedicated contact point for matters relating to press enquiries."
+msgstr ""
+

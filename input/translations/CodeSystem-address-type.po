@@ -1,0 +1,26 @@
+# en -> sv
+
+#: postal
+msgid "Postal"
+msgstr ""
+
+#: postal@definition
+msgid "Mailing addresses - PO Boxes and care-of addresses."
+msgstr ""
+
+#: physical
+msgid "Physical"
+msgstr ""
+
+#: physical@definition
+msgid "A physical address that can be visited."
+msgstr ""
+
+#: both
+msgid "Postal & Physical"
+msgstr ""
+
+#: both@definition
+msgid "An address that is both physical and postal."
+msgstr ""
+
