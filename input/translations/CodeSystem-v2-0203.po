@@ -1,9 +1,5 @@
 # en -> sv
 
-#: v2-0203
-msgid "v2-0203"
-msgstr ""
-
 #: v2-0203/title
 msgid "IdentifierType"
 msgstr "Identifierartyp"
@@ -12,12 +8,1107 @@ msgstr "Identifierartyp"
 msgid "HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON."
 msgstr ""
 
+#: AC
+msgid "Accreditation/Certification Identifier"
+msgstr ""
+
+#: AC@definition
+msgid "Identifier that has been assigned by an accreditation or certification organization in specific fields, indicating a recognized skill"
+msgstr ""
+
+#: ACSN
+msgid "Accession ID"
+msgstr ""
+
+#: ACSN@definition
+msgid "Accession Identifier"
+msgstr ""
+
+#: AIN
+msgid "Animal Identification Number (US Official)"
+msgstr ""
+
+#: AIN@definition
+msgid "A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The first two numbers on a tag are the numbers assigned to a specific State."
+msgstr ""
+
+#: AM
+msgid "American Express"
+msgstr ""
+
+#: AM@definition
+msgid "American Express"
+msgstr ""
+
+#: AMA
+msgid "American Medical Association Number"
+msgstr ""
+
+#: AMA@definition
+msgid "A physician identifier assigned by the AMA."
+msgstr ""
+
+#: AN
+msgid "Account number"
+msgstr ""
+
+#: AN@definition
+msgid "Account An identifier that is unique to an account."
+msgstr ""
+
+#: ANC
+msgid "Account number Creditor"
+msgstr ""
+
+#: ANC@definition
+msgid "A more precise definition of an account number"
+msgstr ""
+
+#: AND
+msgid "Account number debitor"
+msgstr ""
+
+#: AND@definition
+msgid "A more precise definition of an account number"
+msgstr ""
+
+#: ANON
+msgid "Anonymous identifier"
+msgstr ""
+
+#: ANON@definition
+msgid "An identifier for a living subject whose real identity is protected or suppressed"
+msgstr ""
+
+#: ANT
+msgid "Temporary Account Number"
+msgstr ""
+
+#: ANT@definition
+msgid "Temporary version of an Account Number"
+msgstr ""
+
+#: APRN
+msgid "Advanced Practice Registered Nurse number"
+msgstr ""
+
+#: APRN@definition
+msgid "An identifier that is unique to an advanced practice registered nurse within the jurisdiction of a certifying board"
+msgstr ""
+
+#: ASID
+msgid "Ancestor Specimen ID"
+msgstr ""
+
+#: ASID@definition
+msgid "A unique identifier for the ancestor specimen."
+msgstr ""
+
+#: BA
+msgid "Bank Account Number"
+msgstr ""
+
+#: BA@definition
+msgid "Bank Account Number"
+msgstr ""
+
+#: BC
+msgid "Bank Card Number"
+msgstr ""
+
+#: BC@definition
+msgid "An identifier that is unique to a person's bank card"
+msgstr ""
+
+#: BCFN
+msgid "Birth Certificate File Number"
+msgstr ""
+
+#: BCFN@definition
+msgid "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the birth certificate."
+msgstr ""
+
+#: BCT
+msgid "Birth Certificate"
+msgstr ""
+
+#: BCT@definition
+msgid "A number associated with a document identifying the event of a person's birth"
+msgstr ""
+
+#: BR
+msgid "Birth registry number"
+msgstr ""
+
+#: BR@definition
+msgid "An identifier unique within the Assigning Authority that is the official legal record of a person's birth."
+msgstr ""
+
+#: BRN
+msgid "Breed Registry Number"
+msgstr ""
+
+#: BRN@definition
+msgid "Breed Registry Number"
+msgstr ""
+
+#: BSNR
+msgid "Primary physician office number"
+msgstr ""
+
+#: BSNR@definition
+msgid "Primary physician office number"
+msgstr ""
+
+#: CAAI
+msgid "Consumer Application Account Identifier"
+msgstr ""
+
+#: CAAI@definition
+msgid "An identifier for the consumer (e.g., patient, caregiver) for an application such as a portal or App."
+msgstr ""
+
+#: CC
+msgid "Cost Center number"
+msgstr ""
+
+#: CC@definition
+msgid "Cost Center number"
+msgstr ""
+
+#: CONM
+msgid "Change of Name Document"
+msgstr ""
+
+#: CONM@definition
+msgid "A number associated with a document identifying a person's legal change of name."
+msgstr ""
+
+#: CY
+msgid "County number"
+msgstr ""
+
+#: CY@definition
+msgid "County number"
+msgstr ""
+
+#: CZ
+msgid "Citizenship Card"
+msgstr ""
+
+#: CZ@definition
+msgid "A number assigned by a person's country of residence to identify a person's citizenship."
+msgstr ""
+
+#: DC
+msgid "Death Certificate ID"
+msgstr ""
+
+#: DC@definition
+msgid "The identifier assigned to a death certificate, and printed on the death certificate when issued by a jurisdictional vital records office"
+msgstr ""
+
+#: DCFN
+msgid "Death Certificate File Number"
+msgstr ""
+
+#: DCFN@definition
+msgid "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the death certificate."
+msgstr ""
+
+#: DDS
+msgid "Dentist license number"
+msgstr ""
+
+#: DDS@definition
+msgid "An identifier that is unique to a dentist within the jurisdiction of the licensing board"
+msgstr ""
+
+#: DEA
+msgid "Drug Enforcement Administration registration number"
+msgstr ""
+
+#: DEA@definition
+msgid "An identifier for an individual or organization relative to controlled substance regulation and transactions."
+msgstr ""
+
+#: DFN
+msgid "Drug Furnishing or prescriptive authority Number"
+msgstr ""
+
+#: DFN@definition
+msgid "An identifier issued to a health care provider authorizing the person to write drug orders"
+msgstr ""
+
+#: DI
+msgid "Diner's Club card"
+msgstr ""
+
+#: DI@definition
+msgid "Diner's Club card"
+msgstr ""
+
+#: DL
+msgid "Driver's license number"
+msgstr ""
+
+#: DL@definition
+msgid "Driver's license number"
+msgstr ""
+
+#: DN
+msgid "Doctor number"
+msgstr ""
+
+#: DN@definition
+msgid "Doctor number"
+msgstr ""
+
+#: DO
+msgid "Osteopathic License number"
+msgstr ""
+
+#: DO@definition
+msgid "An identifier that is unique to an osteopath within the jurisdiction of a licensing board."
+msgstr ""
+
+#: DP
+msgid "Diplomatic Passport"
+msgstr ""
+
+#: DP@definition
+msgid "A number assigned to a diplomatic passport."
+msgstr ""
+
+#: DPM
+msgid "Podiatrist license number"
+msgstr ""
+
+#: DPM@definition
+msgid "An identifier that is unique to a podiatrist within the jurisdiction of the licensing board."
+msgstr ""
+
+#: DR
+msgid "Donor Registration Number"
+msgstr ""
+
+#: DR@definition
+msgid "Donor Registration Number"
+msgstr ""
+
+#: DS
+msgid "Discover Card"
+msgstr ""
+
+#: DS@definition
+msgid "Discover Card"
+msgstr ""
+
+#: DSG
+msgid "Diagnostic Study Group"
+msgstr ""
+
+#: DSG@definition
+msgid "Unique Identifier that groups several orders that are to be performed together."
+msgstr ""
+
+#: EI
+msgid "Employee number"
+msgstr ""
+
+#: EI@definition
+msgid "A number that uniquely identifies an employee to an employer."
+msgstr ""
+
+#: EN
+msgid "Employer number"
+msgstr ""
+
+#: EN@definition
+msgid "Employer number"
+msgstr ""
+
+#: ESN
+msgid "Staff Enterprise Number"
+msgstr ""
+
+#: ESN@definition
+msgid "An identifier that is unique to a staff member within an enterprise (as identified by the Assigning Authority)."
+msgstr ""
+
+#: FDR
+msgid "Fetal Death Report ID"
+msgstr ""
+
+#: FDR@definition
+msgid "The identifier assigned to a fetal death report, and printed on the fetal death report when issued by a jurisdictional vital records office"
+msgstr ""
+
+#: FDRFN
+msgid "Fetal Death Report File Number"
+msgstr ""
+
+#: FDRFN@definition
+msgid "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the fetal death report certificate."
+msgstr ""
+
+#: FGN
+msgid "Filler Group Number"
+msgstr ""
+
+#: FGN@definition
+msgid "Unique identifier assigned to a group of orders by the filler application."
+msgstr ""
+
+#: FI
+msgid "Facility ID"
+msgstr ""
+
+#: FI@definition
+msgid "Facility ID"
+msgstr ""
+
+#: FILL
+msgid "Filler Identifier"
+msgstr ""
+
+#: FILL@definition
+msgid "An identifier for a request where the identifier is issued by the person, or service, that produces the observations or fulfills the request."
+msgstr ""
+
+#: GI
+msgid "Guarantor internal identifier"
+msgstr ""
+
+#: GI@definition
+msgid "Guarantor internal identifier"
+msgstr ""
+
+#: GIN
+msgid "Animal Group Identifier (US Official)"
+msgstr ""
+
+#: GIN@definition
+msgid "Identifier that can be used to unambiguously describe a specific group of animals."
+msgstr ""
+
+#: GL
+msgid "General ledger number"
+msgstr ""
+
+#: GL@definition
+msgid "General ledger number"
+msgstr ""
+
+#: GN
+msgid "Guarantor external  identifier"
+msgstr ""
+
+#: GN@definition
+msgid "Guarantor external  identifier"
+msgstr ""
+
+#: HC
+msgid "Health Card Number"
+msgstr ""
+
+#: HC@definition
+msgid "Health Card Number"
+msgstr ""
+
+#: IND
+msgid "Indigenous/Aboriginal"
+msgstr ""
+
+#: IND@definition
+msgid "A number assigned to a member of an indigenous or aboriginal group outside of Canada."
+msgstr ""
+
+#: IRISTEM
+msgid "An IRI stem"
+msgstr ""
+
+#: IRISTEM@definition
+msgid "An IRI string that can be prepended to the code to obtain a concept IRI for RDF applications. This should be a valid, absolute IRI as defined in RFC 3987. See https://hl7.org/fhir/rdf.html#iri-stem for details on how this value may be used."
+msgstr ""
+
+#: JHN
+msgid "Jurisdictional health number"
+msgstr ""
+
+#: JHN@definition
+msgid "Jurisdictional health number"
+msgstr ""
+
+#: LACSN
+msgid "Laboratory Accession ID"
+msgstr ""
+
+#: LACSN@definition
+msgid "A laboratory accession id is used in the laboratory domain."
+msgstr ""
+
+#: LANR
+msgid "Lifelong physician number"
+msgstr ""
+
+#: LANR@definition
+msgid "Lifelong physician number"
+msgstr ""
+
+#: LI
+msgid "Labor and industries number"
+msgstr ""
+
+#: LI@definition
+msgid "Labor and industries number"
+msgstr ""
+
+#: L&I
+msgid "Labor and industries number"
+msgstr ""
+
+#: L&I@definition
+msgid "Labor and industries number.  Note that this was introduced erroneously (with an ampersand in the code value) many years ago."
+msgstr ""
+
+#: LN
+msgid "License number"
+msgstr ""
+
+#: LN@definition
+msgid "License number"
+msgstr ""
+
+#: LR
+msgid "Local Registry ID"
+msgstr ""
+
+#: LR@definition
+msgid "Local Registry ID"
+msgstr ""
+
+#: MA
+msgid "Patient Medicaid number"
+msgstr ""
+
+#: MA@definition
+msgid "Patient Medicaid number"
+msgstr ""
+
+#: MB
+msgid "Member Number"
+msgstr ""
+
+#: MB@definition
+msgid "An identifier for the insured of an insurance policy (this insured always has a subscriber), usually assigned by the insurance carrier."
+msgstr ""
+
+#: MC
+msgid "Patient's Medicare number"
+msgstr ""
+
+#: MC@definition
+msgid "Patient's Medicare number"
+msgstr ""
+
+#: MCD
+msgid "Practitioner Medicaid number"
+msgstr ""
+
+#: MCD@definition
+msgid "Practitioner Medicaid number"
+msgstr ""
+
+#: MCN
+msgid "Microchip Number"
+msgstr ""
+
+#: MCN@definition
+msgid "Microchip Number"
+msgstr ""
+
+#: MCR
+msgid "Practitioner Medicare number"
+msgstr ""
+
+#: MCR@definition
+msgid "Practitioner Medicare number"
+msgstr ""
+
+#: MCT
+msgid "Marriage Certificate"
+msgstr ""
+
+#: MCT@definition
+msgid "A number associated with a document identifying the event of a person's marriage."
+msgstr ""
+
+#: MD
+msgid "Medical License number"
+msgstr ""
+
+#: MD@definition
+msgid "An identifier that is unique to a medical doctor within the jurisdiction of a licensing board."
+msgstr ""
+
+#: MI
+msgid "Military ID number"
+msgstr ""
+
+#: MI@definition
+msgid "A number assigned to an individual who has had military duty, but is not currently on active duty. The number is assigned by the DOD or Veterans' Affairs (VA)."
+msgstr ""
+
+#: MR
+msgid "Medical record number"
+msgstr ""
+
+#: MR@definition
+msgid "An identifier that is unique to a patient within a set of medical records, not necessarily unique within an application."
+msgstr ""
+
+#: MRT
+msgid "Temporary Medical Record Number"
+msgstr ""
+
+#: MRT@definition
+msgid "Temporary version of a Medical Record Number"
+msgstr ""
+
+#: MS
+msgid "MasterCard"
+msgstr ""
+
+#: MS@definition
+msgid "MasterCard"
+msgstr ""
+
+#: NBSNR
+msgid "Secondary physician office number"
+msgstr ""
+
+#: NBSNR@definition
+msgid "Secondary physician office number"
+msgstr ""
+
+#: NCT
+msgid "Naturalization Certificate"
+msgstr ""
+
+#: NCT@definition
+msgid "A number associated with a document identifying a person's retention of citizenship in a particular country."
+msgstr ""
+
+#: NE
+msgid "National employer identifier"
+msgstr ""
+
+#: NE@definition
+msgid "National employer identifier"
+msgstr ""
+
+#: NH
+msgid "National Health Plan Identifier"
+msgstr ""
+
+#: NH@definition
+msgid "National Health Plan Identifier"
+msgstr ""
+
+#: NI
+msgid "National unique individual identifier"
+msgstr ""
+
+#: NI@definition
+msgid "National unique individual identifier"
+msgstr ""
+
+#: NII
+msgid "National Insurance Organization Identifier"
+msgstr ""
+
+#: NII@definition
+msgid "National Insurance Organization Identifier"
+msgstr ""
+
+#: NIIP
+msgid "National Insurance Payor Identifier (Payor)"
+msgstr ""
+
+#: NIIP@definition
+msgid "National Insurance Payor Identifier (Payor)"
+msgstr ""
+
+#: NNxxx
+msgid "National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code"
+msgstr ""
+
+#: NNxxx@definition
+msgid "National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code"
+msgstr ""
+
+#: NP
+msgid "Nurse practitioner number"
+msgstr ""
+
+#: NP@definition
+msgid "An identifier that is unique to a nurse practitioner within the jurisdiction of a certifying board."
+msgstr ""
+
+#: NPI
+msgid "National provider identifier"
+msgstr ""
+
+#: NPI@definition
+msgid "National provider identifier"
+msgstr ""
+
+#: OBI
+msgid "Observation Instance Identifier"
+msgstr ""
+
+#: OBI@definition
+msgid "Unique and persistent identifier for an observation instance"
+msgstr ""
+
+#: OD
+msgid "Optometrist license number"
+msgstr ""
+
+#: OD@definition
+msgid "A number that is unique to an individual optometrist within the jurisdiction of the licensing board."
+msgstr ""
+
+#: PA
+msgid "Physician Assistant number"
+msgstr ""
+
+#: PA@definition
+msgid "An identifier that is unique to a physician assistant within the jurisdiction of a licensing board"
+msgstr ""
+
+#: PC
+msgid "Parole Card"
+msgstr ""
+
+#: PC@definition
+msgid "A number identifying a person on parole."
+msgstr ""
+
+#: PCN
+msgid "Penitentiary/correctional institution Number"
+msgstr ""
+
+#: PCN@definition
+msgid "A number assigned to individual who is incarcerated."
+msgstr ""
+
+#: PE
+msgid "Living Subject Enterprise Number"
+msgstr ""
+
+#: PE@definition
+msgid "An identifier that is unique to a living subject within an enterprise (as identified by the Assigning Authority)."
+msgstr ""
+
+#: PEN
+msgid "Pension Number"
+msgstr ""
+
+#: PEN@definition
+msgid "Pension Number"
+msgstr ""
+
+#: PGN
+msgid "Placer Group Number"
+msgstr ""
+
+#: PGN@definition
+msgid "Unique identifier assigned to a group of orders by the placer application."
+msgstr ""
+
+#: PHC
+msgid "Public Health Case Identifier"
+msgstr ""
+
+#: PHC@definition
+msgid "Identifier assigned to a person during a case investigation as part of a public health event"
+msgstr ""
+
+#: PHE
+msgid "Public Health Event Identifier"
+msgstr ""
+
+#: PHE@definition
+msgid "Identifier assigned to an event of interest to public health"
+msgstr ""
+
+#: PHO
+msgid "Public Health Official ID"
+msgstr ""
+
+#: PHO@definition
+msgid "An identifier for a person working at a public health agency (PHA),  assigned or issued by the agency"
+msgstr ""
+
+#: PI
+msgid "Patient internal identifier"
+msgstr ""
+
+#: PI@definition
+msgid "A number that is unique to a patient within an Assigning Authority."
+msgstr ""
+
+#: PIN
+msgid "Premises Identifier Number (US Official)"
+msgstr ""
+
+#: PIN@definition
+msgid "Identifier that uniquely identifies a geographic location in the US."
+msgstr ""
+
+#: PLAC
+msgid "Placer Identifier"
+msgstr ""
+
+#: PLAC@definition
+msgid "An identifier for a request where the identifier is issued by the person or service making the request."
+msgstr ""
+
+#: PN
+msgid "Person number"
+msgstr ""
+
+#: PN@definition
+msgid "A number that is unique to a living subject within an Assigning Authority."
+msgstr ""
+
+#: PNT
+msgid "Temporary Living Subject Number"
+msgstr ""
+
+#: PNT@definition
+msgid "Temporary version of a Living Subject Number."
+msgstr ""
+
+#: PPIN
+msgid "Medicare/CMS Performing Provider Identification Number"
+msgstr ""
+
+#: PPIN@definition
+msgid "Medicare/CMS Performing Provider Identification Number"
+msgstr ""
+
+#: PPN
+msgid "Passport number"
+msgstr ""
+
+#: PPN@definition
+msgid "A unique number assigned to the document affirming that a person is a citizen of the country."
+msgstr ""
+
+#: PRC
+msgid "Permanent Resident Card Number"
+msgstr ""
+
+#: PRC@definition
+msgid "Permanent Resident Card Number"
+msgstr ""
+
+#: PRN
+msgid "Provider number"
+msgstr "Identifierare för vårdgivare eller utförare av socialtjänst"
+
+#: PRN@definition
+msgid "A number that is unique to an individual provider, a provider group or an organization within an Assigning Authority."
+msgstr ""
+
+#: PT
+msgid "Patient external identifier"
+msgstr ""
+
+#: PT@definition
+msgid "Patient external identifier"
+msgstr ""
+
+#: QA
+msgid "QA number"
+msgstr ""
+
+#: QA@definition
+msgid "QA number"
+msgstr ""
+
+#: RI
+msgid "Resource identifier"
+msgstr ""
+
+#: RI@definition
+msgid "A generalized resource identifier."
+msgstr ""
+
+#: RN
+msgid "Registered Nurse Number"
+msgstr ""
+
+#: RN@definition
+msgid "An identifier that is unique to a registered nurse within the jurisdiction of the licensing board."
+msgstr ""
+
+#: RPH
+msgid "Pharmacist license number"
+msgstr ""
+
+#: RPH@definition
+msgid "An identifier that is unique to a pharmacist within the jurisdiction of the licensing board."
+msgstr ""
+
+#: RR
+msgid "Railroad Retirement number"
+msgstr ""
+
+#: RR@definition
+msgid "An identifier for an individual enrolled with the Railroad Retirement Administration.  Analogous to, but distinct from, a Social Security Number"
+msgstr ""
+
+#: RRI
+msgid "Regional registry ID"
+msgstr ""
+
+#: RRI@definition
+msgid "Regional registry ID"
+msgstr ""
+
+#: RRP
+msgid "Railroad Retirement Provider"
+msgstr ""
+
+#: RRP@definition
+msgid "Railroad Retirement Provider"
+msgstr ""
+
+#: SAMN
+msgid "SAMN# accession Number"
+msgstr ""
+
+#: SAMN@definition
+msgid "The accession number for the BioSample data repository at the National Center for Biotechnology Information (NCBI)"
+msgstr ""
+
+#: SB
+msgid "Social Beneficiary Identifier"
+msgstr ""
+
+#: SB@definition
+msgid "An identifier issued by a governmental organization to a person to identify the person should they apply for or receive social services and/or benefits"
+msgstr ""
+
+#: SID
+msgid "Specimen ID"
+msgstr ""
+
+#: SID@definition
+msgid "Identifier for a specimen."
+msgstr ""
+
+#: SL
+msgid "State license"
+msgstr ""
+
+#: SL@definition
+msgid "State license"
+msgstr ""
+
+#: SN
+msgid "Subscriber Number"
+msgstr ""
+
+#: SN@definition
+msgid "An identifier for a subscriber of an insurance policy which is unique for, and usually assigned by, the insurance carrier."
+msgstr ""
+
+#: SNBSN
+msgid "State assigned NDBS card Identifier"
+msgstr ""
+
+#: SNBSN@definition
+msgid "The identifier on a Newborn Screening Dried Bloodspot (NDBS) card that is assigned by the state which provided the sample collection cards and to whom this information must be reported"
+msgstr ""
+
+#: SNO
+msgid "Serial Number"
+msgstr ""
+
+#: SNO@definition
+msgid "An identifier affixed to an item by the manufacturer when it is first made, where each item has a different identifier."
+msgstr ""
+
+#: SP
+msgid "Study Permit"
+msgstr ""
+
+#: SP@definition
+msgid "A number associated with a permit identifying a person who is a resident of a jurisdiction for the purpose of education."
+msgstr ""
+
+#: SR
+msgid "State registry ID"
+msgstr ""
+
+#: SR@definition
+msgid "State registry ID"
+msgstr ""
+
+#: SRX
+msgid "SRA Accession number"
+msgstr ""
+
+#: SRX@definition
+msgid "The accession number generated by the Sequence Read Archive (SRA) at the National Center for Biotechnology Information (NCBI) when sequence data are uploaded to NCBI."
+msgstr ""
+
+#: SS
+msgid "Social Security number"
+msgstr ""
+
+#: SS@definition
+msgid "Social Security number"
+msgstr ""
+
+#: STN
+msgid "Shipment Tracking Number"
+msgstr ""
+
+#: STN@definition
+msgid "Identifier assigned to a package being shipped"
+msgstr ""
+
+#: TAX
+msgid "Tax ID number"
+msgstr ""
+
+#: TAX@definition
+msgid "Tax ID number"
+msgstr ""
+
+#: TN
+msgid "Treaty Number/ (Canada)"
+msgstr ""
+
+#: TN@definition
+msgid "A number assigned to a member of an indigenous group in Canada."
+msgstr ""
+
+#: TPR
+msgid "Temporary Permanent Resident (Canada)"
+msgstr ""
+
+#: TPR@definition
+msgid "A number associated with a document identifying a person's temporary permanent resident status."
+msgstr ""
+
+#: TRL
+msgid "Training License Number"
+msgstr ""
+
+#: TRL@definition
+msgid "The license number used during training."
+msgstr ""
+
+#: U
+msgid "Unspecified identifier"
+msgstr ""
+
+#: U@definition
+msgid "Unspecified identifier"
+msgstr ""
+
+#: UDI
+msgid "Universal Device Identifier"
+msgstr ""
+
+#: UDI@definition
+msgid "An identifier assigned to a device using the Unique Device Identification framework as defined by IMDRF (http://imdrf.org)."
+msgstr ""
+
+#: UPIN
+msgid "Medicare/CMS (formerly HCFA)'s Universal Physician Identification numbers"
+msgstr ""
+
+#: UPIN@definition
+msgid "An identifier for a provider within the CMS/Medicare program.  A globally unique identifier for the provider in the Medicare program."
+msgstr ""
+
+#: USID
+msgid "Unique Specimen ID"
+msgstr ""
+
+#: USID@definition
+msgid "A unique identifier for a specimen."
+msgstr ""
+
+#: VN
+msgid "Visit number"
+msgstr ""
+
+#: VN@definition
+msgid "Visit number"
+msgstr ""
+
+#: VP
+msgid "Visitor Permit"
+msgstr ""
+
+#: VP@definition
+msgid "A number associated with a document identifying a person as a visitor of a jurisdiction or country."
+msgstr ""
+
+#: VS
+msgid "VISA"
+msgstr ""
+
+#: VS@definition
+msgid "VISA"
+msgstr ""
+
+#: WC
+msgid "WIC identifier"
+msgstr ""
+
+#: WC@definition
+msgid "WIC identifier"
+msgstr ""
+
+#: WCN
+msgid "Workers' Comp Number"
+msgstr ""
+
+#: WCN@definition
+msgid "Workers' Comp Number"
+msgstr ""
+
+#: WP
+msgid "Work Permit"
+msgstr ""
+
+#: WP@definition
+msgid "A number associated with a permit for a person who is granted permission to work in a country for a specified time period."
+msgstr ""
+
+#: XV
+msgid "Health Plan Identifier"
+msgstr ""
+
+#: XV@definition
+msgid "National unique health plan identifier required by the US Department of Health and Human Services, Centers for Medicare and Medicaid Services (CMS) in the US Realm."
+msgstr ""
+
 #: XX
-#. **Description:**Used to indicate which of the various name parts is used when interacting with the person.
 msgid "Organization identifier"
 msgstr "Identifierare för organisation"
 
-#: PRN
-#. **Description:**Used to indicate which of the various name parts is used when interacting with the person.
-msgid "Provider number"
-msgstr "Identifierare för vårdgivare eller utförare av socialtjänst"
+#: XX@definition
+msgid "Organization identifier"
+msgstr ""
+

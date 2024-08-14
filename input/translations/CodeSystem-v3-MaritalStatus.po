@@ -1,6 +1,5 @@
 # en -> sv
 
-
 #: A
 msgid "Annulled"
 msgstr ""
@@ -79,7 +78,7 @@ msgstr ""
 
 #: W
 msgid "Widowed"
-msgstr "Änka och änkling"
+msgstr "Änka/änkling"
 
 #: W@definition
 msgid "The spouse has died"
