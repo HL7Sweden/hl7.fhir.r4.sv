@@ -2,7 +2,7 @@
 
 #: mon
 msgid "Monday"
-msgstr ""
+msgstr "måndag"
 
 #: mon@definition
 msgid "Monday."
@@ -10,7 +10,7 @@ msgstr ""
 
 #: tue
 msgid "Tuesday"
-msgstr ""
+msgstr "tisdag"
 
 #: tue@definition
 msgid "Tuesday."
@@ -18,7 +18,7 @@ msgstr ""
 
 #: wed
 msgid "Wednesday"
-msgstr ""
+msgstr "onsdag"
 
 #: wed@definition
 msgid "Wednesday."
@@ -26,7 +26,7 @@ msgstr ""
 
 #: thu
 msgid "Thursday"
-msgstr ""
+msgstr "torsdag"
 
 #: thu@definition
 msgid "Thursday."
@@ -34,7 +34,7 @@ msgstr ""
 
 #: fri
 msgid "Friday"
-msgstr ""
+msgstr "fredag"
 
 #: fri@definition
 msgid "Friday."
@@ -42,7 +42,7 @@ msgstr ""
 
 #: sat
 msgid "Saturday"
-msgstr ""
+msgstr "lördag"
 
 #: sat@definition
 msgid "Saturday."
@@ -50,7 +50,7 @@ msgstr ""
 
 #: sun
 msgid "Sunday"
-msgstr ""
+msgstr "söndag"
 
 #: sun@definition
 msgid "Sunday."
