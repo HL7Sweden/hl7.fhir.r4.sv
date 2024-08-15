@@ -10,7 +10,7 @@ msgstr ""
 
 #: D
 msgid "Divorced"
-msgstr "Skild"
+msgstr "skild"
 
 #: D@definition
 msgid "Marriage contract has been declared dissolved and inactive"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: M
 msgid "Married"
-msgstr "Gift"
+msgstr "gift"
 
 #: M@definition
 msgid "A current marriage contract is active"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: U
 msgid "unmarried"
-msgstr "Ogift"
+msgstr "ogift"
 
 #: U@definition
 msgid "Currently not in a marriage contract."
@@ -78,7 +78,7 @@ msgstr ""
 
 #: W
 msgid "Widowed"
-msgstr "Änka/änkling"
+msgstr "änka/änkling"
 
 #: W@definition
 msgid "The spouse has died"

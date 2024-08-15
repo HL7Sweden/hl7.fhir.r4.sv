@@ -818,7 +818,7 @@ msgstr ""
 
 #: PRN
 msgid "Provider number"
-msgstr "Identifierare för vårdgivare eller utförare av socialtjänst"
+msgstr "identifierare för vårdgivare eller utförare av socialtjänst"
 
 #: PRN@definition
 msgid "A number that is unique to an individual provider, a provider group or an organization within an Assigning Authority."
@@ -1106,7 +1106,7 @@ msgstr ""
 
 #: XX
 msgid "Organization identifier"
-msgstr "Identifierare för organisation"
+msgstr "identifierare för organisation"
 
 #: XX@definition
 msgid "Organization identifier"
