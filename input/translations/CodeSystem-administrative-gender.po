@@ -2,7 +2,7 @@
 
 #: male
 msgid "Male"
-msgstr ""
+msgstr "man"
 
 #: male@definition
 msgid "Male."
@@ -14,7 +14,7 @@ msgstr ""
 
 #: female
 msgid "Female"
-msgstr ""
+msgstr "kvinna"
 
 #: female@definition
 msgid "Female."
@@ -26,7 +26,7 @@ msgstr ""
 
 #: other
 msgid "Other"
-msgstr ""
+msgstr "annat"
 
 #: other@definition
 msgid "Other."
@@ -38,7 +38,7 @@ msgstr ""
 
 #: unknown
 msgid "Unknown"
-msgstr ""
+msgstr "okänt"
 
 #: unknown@definition
 msgid "Unknown."
