@@ -2,41 +2,41 @@
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "hemadress"
 
 #: home@definition
 msgid "A communication address at a home."
-msgstr ""
+msgstr "Adress som är uppgiven till hemmet."
 
 #: work
 msgid "Work"
-msgstr ""
+msgstr "arbetsplatsadress"
 
 #: work@definition
 msgid "An office address. First choice for business related contacts during business hours."
-msgstr ""
+msgstr "Adress som är uppgiven till arbetet."
 
 #: temp
 msgid "Temporary"
-msgstr ""
+msgstr "tillfällig adress"
 
 #: temp@definition
 msgid "A temporary address. The period can provide more detailed information."
-msgstr ""
+msgstr "Adress som är uppgiven och kommer vara aktuell under en begränsad period. Elementet period kan ge mer detaljerad information."
 
 #: old
 msgid "Old / Incorrect"
-msgstr ""
+msgstr "gammal adress"
 
 #: old@definition
 msgid "This address is no longer in use (or was never correct but retained for records)."
-msgstr ""
+msgstr "Adress som inte längre används (eller aldrig använts men som sparas för historiska ändamål)."
 
 #: billing
 msgid "Billing"
-msgstr ""
+msgstr "faktureringsadress"
 
 #: billing@definition
 msgid "An address to be used to send bills, invoices, receipts etc."
-msgstr ""
+msgstr "Adress som är uppgiven för fakturor, räkningar och kvitton."
 
