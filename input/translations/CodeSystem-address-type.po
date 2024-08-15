@@ -2,25 +2,25 @@
 
 #: postal
 msgid "Postal"
-msgstr ""
+msgstr "utdelningsadress"
 
 #: postal@definition
 msgid "Mailing addresses - PO Boxes and care-of addresses."
-msgstr ""
+msgstr "En adress där post kan delas ut."
 
 #: physical
 msgid "Physical"
-msgstr ""
+msgstr "fysisk adress"
 
 #: physical@definition
 msgid "A physical address that can be visited."
-msgstr ""
+msgstr "En adress som kan besökas."
 
 #: both
 msgid "Postal & Physical"
-msgstr ""
+msgstr "utdelningsadress och fysisk adress"
 
 #: both@definition
 msgid "An address that is both physical and postal."
-msgstr ""
+msgstr "En adress som kan besökas och/eller där post kan delas ut."
 
