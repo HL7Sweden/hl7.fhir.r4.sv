@@ -1,0 +1,1 @@
+* use non-capital initial characters unless capital mandated 
