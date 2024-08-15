@@ -1,0 +1,1 @@
+The Swedish terms, when possible, use the genus neutrum (T genus) to indicate that it is the value (sv. värde) which is associated with the null flavor, e.g. the value is unavailable (sv. värdet är otillgängligt)
