@@ -22,5 +22,5 @@ msgstr "utdelningsadress och fysisk adress"
 
 #: both@definition
 msgid "An address that is both physical and postal."
-msgstr "En adress som kan besökas och/eller där post kan delas ut."
+msgstr "En adress som kan besökas och där post kan delas ut."
 
