@@ -2,7 +2,7 @@
 
 #: BP
 msgid "Billing contact person"
-msgstr ""
+msgstr "kontaktperson fakturering"
 
 #: BP@definition
 msgid "Billing contact person"
@@ -10,7 +10,7 @@ msgstr ""
 
 #: CP
 msgid "Contact person"
-msgstr ""
+msgstr "kontaktperson"
 
 #: CP@definition
 msgid "Contact person"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: EP
 msgid "Emergency contact person"
-msgstr ""
+msgstr "kontaktperson nöd"
 
 #: EP@definition
 msgid "Emergency contact person"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: E
 msgid "Employer"
-msgstr ""
+msgstr "arbetsgivare"
 
 #: E@definition
 msgid "Employer"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: C
 msgid "Emergency Contact"
-msgstr ""
+msgstr "nödkontakt"
 
 #: C@definition
 msgid "Emergency Contact"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: I
 msgid "Insurance Company"
-msgstr ""
+msgstr "försäkringsbolag"
 
 #: I@definition
 msgid "Insurance Company"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: N
 msgid "Next-of-Kin"
-msgstr ""
+msgstr "anhörig"
 
 #: N@definition
 msgid "Next-of-Kin"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: O
 msgid "Other"
-msgstr ""
+msgstr "annan"
 
 #: O@definition
 msgid "Other"
@@ -90,7 +90,7 @@ msgstr ""
 
 #: U
 msgid "Unknown"
-msgstr ""
+msgstr "okänd"
 
 #: U@definition
 msgid "Unknown"
