@@ -18,7 +18,7 @@ msgstr ""
 
 #: SP
 msgid "spouse"
-msgstr ""
+msgstr "make/maka"
 
 #: SP@definition
 msgid "**Description:**The name assumed from the partner in a marital relationship. Usually the spouse's family name. Note that no inference about gender can be made from the existence of spouse names."
@@ -42,7 +42,7 @@ msgstr ""
 
 #: IN
 msgid "initial"
-msgstr ""
+msgstr "initial"
 
 #: IN@definition
 msgid "**Description:**Indicates that a name part is just an initial. Initials do not imply a trailing period since this would not work with non-Latin scripts. In some languages, initials may consist of more than one letter, e.g., "Ph" could stand for "Philippe" or "Th" For "Thomas"."
@@ -58,7 +58,7 @@ msgstr ""
 
 #: MID
 msgid "middle name"
-msgstr ""
+msgstr "mellannamn"
 
 #: MID@definition
 msgid "**Description:**Indicates that the name part is a middle name. **Usage Notes:** In general, the english "middle name" concept is all of the given names after the first. This qualifier may be used to explicitly indicate which given names are considered to be middle names. The middle name qualifier may also be used with family names. This is a Scandinavian use case, matching the concept of "mellomnavn","mellannamn". Note that there are specific rules that indicate what names may be taken as a mellannamn in different Scandinavian countries."
