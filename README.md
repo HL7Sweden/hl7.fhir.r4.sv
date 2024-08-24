@@ -1,8 +1,4 @@
-# Página de inicio - español (Spanish Language Pack)
+# Swedihs Language Pack
 
-Mantenido por afiliados de HL7 de habla hispana.
-Para contribuir a este trabajo, vaya a
-[Paquete de traducción al español](https://chat.fhir.org/#narrow/stream/405678-Spanish-Translation-Pack)
-
-See the translation pack at [https://build.fhir.org/ig/FHIR/hl7.fhir.r4.es/branches/main]
+ci build: https://build.fhir.org/ig/danka74/hl7.fhir.r4.sv/
 
