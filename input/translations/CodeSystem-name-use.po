@@ -50,7 +50,7 @@ msgstr ""
 
 #: maiden
 msgid "Name changed for Marriage"
-msgstr "tidigare namn"
+msgstr "namn som ogift"
 
 #: maiden@definition
 msgid "A name used prior to changing name because of marriage. This name use is for use by applications that collect and store names that were used prior to a marriage. Marriage naming customs vary greatly around the world, and are constantly changing. This term is not gender specific. The use of this term does not imply any particular history for a person's name."
