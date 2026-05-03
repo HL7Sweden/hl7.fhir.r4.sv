@@ -3,6 +3,8 @@
 .index.db
 .index.json
 
+fsh-generated/
+
 input-cache/
 
 output/
